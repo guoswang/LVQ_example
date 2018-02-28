@@ -14,3 +14,5 @@ $ python lvq_example.py
 ```
 ## Result    
 ![这里写图片描述](http://img.blog.csdn.net/20180228221304396)  
+## References
+http://blog.csdn.net/u014028027/article/details/71799254
